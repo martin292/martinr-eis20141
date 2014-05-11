@@ -1,0 +1,5 @@
+Implementar un algoritmo para ordenar perros según sus características: edad, peso y color.
+El ordenamiento debe ser primero por edad, luego por peso y luego por color, 
+o sea debe ordenarse por edad y ante la misma edad, debe desempatarse por peso y 
+ante mismo peso debe desempatar por color.  
+El ordenamiento por color debe responder a: blanco>negro>marron>gris
